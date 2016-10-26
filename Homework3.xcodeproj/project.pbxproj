@@ -22,7 +22,7 @@
 		B1FBC2D71DC0B3B500DFCEC7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1FBC2DA1DC0B3B500DFCEC7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1FBC2DC1DC0B3B500DFCEC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B1FBC2E21DC0B3E600DFCEC7 /* 作業3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "作業3.playground"; path = "../../作業3.playground"; sourceTree = "<group>"; };
+		B1FBC2E31DC0B6E700DFCEC7 /* 作業3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "作業3.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,11 +57,11 @@
 			children = (
 				B1FBC2D01DC0B3B500DFCEC7 /* AppDelegate.swift */,
 				B1FBC2D21DC0B3B500DFCEC7 /* ViewController.swift */,
+				B1FBC2E31DC0B6E700DFCEC7 /* 作業3.playground */,
 				B1FBC2D41DC0B3B500DFCEC7 /* Main.storyboard */,
 				B1FBC2D71DC0B3B500DFCEC7 /* Assets.xcassets */,
 				B1FBC2D91DC0B3B500DFCEC7 /* LaunchScreen.storyboard */,
 				B1FBC2DC1DC0B3B500DFCEC7 /* Info.plist */,
-				B1FBC2E21DC0B3E600DFCEC7 /* 作業3.playground */,
 			);
 			path = Homework3;
 			sourceTree = "<group>";
